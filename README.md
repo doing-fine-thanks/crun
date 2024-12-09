@@ -9,7 +9,7 @@ No clue.
 Because I have a paper due and am procrastinating. 
 
 ### What Do You Plan to Add?
- - The ability to pass args to the `.c` script.
+ - Better script arg passing.
  - To configure the underlying compiler used to run the script.
  - A help option.
  - Maybe a way to define templates to use any compiled language this way???
