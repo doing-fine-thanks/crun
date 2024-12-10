@@ -6,8 +6,10 @@ import os
 from uuid import uuid4
 
 CRUN_COMPILE_CMD_ENV_VAR = "CRUN_COMMAND"
+
 CRUN_INCLUDE_PATH_ENV_VAR = "CRUN_INCLUDE_DIR"
 CRUN_DEFAULT_INCLUDE_PATH = "./lib"
+
 
 if __name__ == "__main__":
     args = sys.argv
