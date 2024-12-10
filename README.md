@@ -3,8 +3,8 @@
 Run `.c` & `.cpp` files like they are scripts.
 
 Note that you have to set the used compiler to `clang++` or something similar if you want to use `.cpp`.
-Also, some basic header-only libraries are included for linking.
-
+Also, some basic header-only libraries are included for convenience.
+ 
 Consult the script for any env-var names to set to alter behavior.
 
 ### Is This Useful?
